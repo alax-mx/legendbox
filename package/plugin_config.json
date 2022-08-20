@@ -1,0 +1,53 @@
+{
+	"MinTime" : 1000,
+	"MultiNum" : 10,
+	"HanHuaCount" : 3,
+	"plugins" : [
+		{
+			"id" : 1003,
+			"type" : "Switch",
+			"title" : "日志开关",
+            "value" : "true"
+		}, {
+			"id" : 1004,
+			"type" : "Switch",
+			"title" : "自动回收",
+            "value" : "true"
+		}, {
+			"id" : 1005,
+			"type" : "Switch",
+			"title" : "自动下图",
+            "value" : "true"
+		}, {
+			"id" : 1006,
+			"type" : "Switch",
+			"title" : "星座打宝",
+            "value" : "true"
+		}, {
+			"id" : 1007,
+			"type" : "Switch",
+			"title" : "吃红包",
+            "value" : "true"
+		}, {
+			"id" : 1008,
+			"type" : "Switch",
+			"title" : "极品转存",
+            "value" : "true"
+		}, {
+			"id" : 1009,
+			"type" : "Switch",
+			"title" : "寻找BOSS",
+            "value" : "true"
+		}, {
+			"id" : 1010,
+			"type" : "Switch",
+			"title" : "自动换装",
+            "value" : "true"
+		}, {
+			"id" : 1011,
+			"type" : "Switch",
+			"title" : "自动配置",
+			"value" : "true"
+		}
+	]
+}
